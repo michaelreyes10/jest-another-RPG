@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelreyes10/jest-another-RPG.git"
+  },
+  "author": "Michael Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelreyes10/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/michaelreyes10/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
